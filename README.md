@@ -1,7 +1,4 @@
 ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/sairanga123/my_blog_post/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
 ---
 title: "My R Programming Blog - The Dplyr Library & Piping"
 author: "Sai Ranganathan"
@@ -51,4 +48,3 @@ planets_df %>% select(name,type,diameter) %>% filter(diameter > 4)
 Overall, the dplyr method and piping are well known and commonly used methods within the R programming world, and was one of the most useful concepts that I learend in terms of data analysis and manipulation. 
 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
